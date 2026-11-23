@@ -48,6 +48,10 @@ esports-arena-challenge/
 
 ---
 
+```
+
+---
+
 ## 🚀 Como Executar o Sistema
 
 1. **Pré-requisito:** Baixe e instale o interpretador **Visualg 3.0** (ou versão `3.0.7` / superior).
