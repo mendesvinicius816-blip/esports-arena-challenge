@@ -44,3 +44,22 @@ esports-arena-challenge/
 │   └── EsportsArenaChallenge_FIFA.alg                   # Código-fonte principal no Visualg 3.0
 ├── LICENSE                                              # Licença MIT
 └── README.md                                            # Documentação de apresentação e execução
+```
+
+---
+
+## 🚀 Como Executar o Sistema
+
+1. **Pré-requisito:** Baixe e instale o interpretador **Visualg 3.0** (ou versão `3.0.7` / superior).
+2. **Download:** Clone este repositório ou baixe o arquivo `src/EsportsArenaChallenge_FIFA.alg`.
+3. **Execução:**
+   * Abra o **Visualg**.
+   * Vá em `Arquivo > Abrir` e selecione `EsportsArenaChallenge_FIFA.alg`.
+   * Pressione **`F9`** (ou clique em *Rodar > Executar*) para iniciar o menu interativo.
+4. **Navegação:** Utilize as opções numéricas de **`1` a `5`** no console para cadastrar equipes, gerenciar elencos, emitir relatórios, registrar partidas/ranking e simular custos de infraestrutura.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
